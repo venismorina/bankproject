@@ -1,0 +1,22 @@
+[
+    {
+        "id": 6,
+        "bank_name": "bank 1",
+        "account_holder": "Blend Hoxha",
+        "balance": 30000,
+        "transactions": [
+            {
+                "id": 77,
+                "transactions_name": "Value 32",
+                "amount": 15000,
+                "date": "18/3/2021"
+            },
+            {
+                "id": 78,
+                "transactions_name": "Value 33",
+                "amount": 15000,
+                "date": "19/3/2021"
+            }
+        ]
+    }
+]

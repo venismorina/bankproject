@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Taulant Mehmeti",
+        "balance": 100
+    },
+    {
+        "id": 2,
+        "name": "Malsor Spahihu",
+        "balance": 200
+    },
+    {
+        "id": 3,
+        "name": "Blend Hoxha",
+        "balance": 150
+    }
+]

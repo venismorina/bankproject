@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "bank_name": "bank 1",
+        "account_holder": "Taulant Mehmeti",
+        "balance": 20000,
+        "transactions": [
+            {
+                "id": 1,
+                "transactions_name": "Value 1",
+                "amount": 1000,
+                "date": "16/6/2021"
+            },
+            {
+                "id": 2,
+                "transactions_name": "Value 3",
+                "amount": 200,
+                "date": "06/6/2021"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "bank_name": "bank 2",
+        "account_holder": "Taulant Mehmeti",
+        "balance": 15000,
+        "transactions": [
+            {
+                "id": 3,
+                "transactions_name": "Value 7",
+                "amount": 6155,
+                "date": "26/6/2021"
+            },
+            {
+                "id": 4,
+                "transactions_name": "Value 8",
+                "amount": 523,
+                "date": "27/6/2021"
+            },
+            {
+                "id": 5,
+                "transactions_name": "Value 11",
+                "amount": 242,
+                "date": "29/6/2021"
+            }
+        ]
+    }
+]

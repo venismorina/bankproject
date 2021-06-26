@@ -1,0 +1,55 @@
+[
+    {
+        "id": 3,
+        "bank_name": "bank 3",
+        "account_holder": "Malsor Spahihu",
+        "balance": 25000,
+        "transactions": [
+            {
+                "id": 21,
+                "transactions_name": "Value 10",
+                "amount": 523,
+                "date": "16/6/2021"
+            },
+            {
+                "id": 22,
+                "transactions_name": "Value 25",
+                "amount": 112,
+                "date": "06/6/2021"
+            },
+            {
+                "id": 26,
+                "transactions_name": "Value 54",
+                "amount": 32,
+                "date": "06/8/2021"
+            },
+            {
+                "id": 28,
+                "transactions_name": "Value 23",
+                "amount": 531,
+                "date": "06/10/2021"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "bank_name": "bank 2",
+        "account_holder": "Malsor Spahihu",
+        "balance": 10000,
+        "transactions": [
+            {
+                "id": 15,
+                "transactions_name": "Value 1",
+                "amount": 22,
+                "date": "18/3/2021"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "bank_name": "bank 5",
+        "account_holder": "Malsor Spahihu",
+        "balance": 5000,
+        "transactions": null
+    }
+]
